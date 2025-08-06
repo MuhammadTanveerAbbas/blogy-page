@@ -1,4 +1,4 @@
-# Blogy - Responsive Blog Website 📝🌐
+# Blogy - Responsive Blog 📝
 
 A **fully responsive** and sleek blog website built with **HTML**, **CSS**, and **JavaScript** — engineered for flawless performance and an optimal reading experience across all devices and screen sizes. 📱💻✨
 
